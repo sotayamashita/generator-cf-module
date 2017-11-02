@@ -16,7 +16,7 @@
     "lodash": "^3.10.1",
     "parse-author": "^0.2.0",
     "sorted-object": "^1.0.0",
-    "yeoman-generator": "^0.21.1"
+    "yeoman-generator": "^0.24.1"
   },
   "devDependencies": {
     "mocha": "^2.3.3"
